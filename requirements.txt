@@ -3,6 +3,6 @@ gunicorn==20.0.4
 opencv-python-headless==4.5.5.64
 mediapipe==0.10.14
 numpy==1.24.4
-tensorflow==2.5.0
+tensorflow==2.14.0
 gtts==2.2.3
 pygame==2.0.1
